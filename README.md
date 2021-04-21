@@ -5,6 +5,8 @@ Code for the statistical epidemiological analysis of the second round
 Munich KoCo19.
 The study website is [http://koco19.de](http://koco19.de), see there for
 further information.
+The code is hosted at
+[https://github.com/koco19/epi2](https://github.com/koco19/epi2).
 
 ## Structure
 
