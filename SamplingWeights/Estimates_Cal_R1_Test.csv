@@ -1,0 +1,9 @@
+"Adjustment","Calculation","Categories","Estimates","Lower_95_CB","Upper_95_CB"
+"Unadjusted","Weighted","Prevalence R2",3.43458144479023,2.83343627330304,4.03572661627742
+"Unadjusted","Weighted","Negative R1 Positive R2",1.70987316524003,1.11987392600385,2.29987240447621
+"Unadjusted","Weighted","Positive R1 Positive R2",92.8945326815895,86.2418655575839,99.5471998055951
+"Unadjusted","Weighted","Positive R1 Negative R2",7.10546731841049,0.452800194404858,13.7581344424161
+"Adjusted","Weighted","Prevalence R2",3.57216920800073,2.89153591174635,4.25280250425509
+"Adjusted","Weighted","Negative R1 Positive R2",1.61940648600574,0.951392924497061,2.2874200475144
+"Adjusted","Weighted","Positive R1 Positive R2",104.861216148896,97.3288812516647,112.393551046127
+"Adjusted","Weighted","Positive R1 Negative R2",-4.86121614889609,-12.3935510461274,2.67111874833525

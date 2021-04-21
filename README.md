@@ -13,8 +13,6 @@ The code is located in the following folders:
 * `/Statistics`: Contains the code for estimating the unweighted point
   estimates and associated confidence intervals for overall and weekly
   prevalences.
-* `/Clustering`: Contains the code for the geospatial clustering permutation
-  tests.
 * `/Output`: Contains the results for the unweighted prevalence estimates.
 * `/SamplingWeights`: Contains the code for performing sampling weight
   correction and calibration.
